@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Ramzi-Osta-Banking-Application-ghp/static/css/main.fc392e05.css",
+    "main.js": "/Ramzi-Osta-Banking-Application-ghp/static/js/main.0d3b1bd0.js",
+    "static/js/787.4b31b6a8.chunk.js": "/Ramzi-Osta-Banking-Application-ghp/static/js/787.4b31b6a8.chunk.js",
+    "static/media/BadBank2.jpg": "/Ramzi-Osta-Banking-Application-ghp/static/media/BadBank2.944cd784adecdde4118a.jpg",
+    "static/media/bb7.jpg": "/Ramzi-Osta-Banking-Application-ghp/static/media/bb7.6bbcfc004ec54055095c.jpg",
+    "static/media/bb6.jpg": "/Ramzi-Osta-Banking-Application-ghp/static/media/bb6.bb9aa9dea62393def906.jpg",
+    "index.html": "/Ramzi-Osta-Banking-Application-ghp/index.html",
+    "main.fc392e05.css.map": "/Ramzi-Osta-Banking-Application-ghp/static/css/main.fc392e05.css.map",
+    "main.0d3b1bd0.js.map": "/Ramzi-Osta-Banking-Application-ghp/static/js/main.0d3b1bd0.js.map",
+    "787.4b31b6a8.chunk.js.map": "/Ramzi-Osta-Banking-Application-ghp/static/js/787.4b31b6a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc392e05.css",
+    "static/js/main.0d3b1bd0.js"
+  ]
+}
